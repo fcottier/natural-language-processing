@@ -52,6 +52,7 @@ def load_embeddings(embeddings_path):
 
     # remove this when you're done
     raise NotImplementedError(
+        "TEST of the upload before puting my code" 
         "Open utils.py and fill with your code. In case of Google Colab, download"
         "(https://github.com/hse-aml/natural-language-processing/blob/master/project/utils.py), "
         "edit locally and upload using '> arrow on the left edge' -> Files -> UPLOAD")
